@@ -1,4 +1,4 @@
-# MemePoints - Uniswap V4 Hook
+# PointsSwapHook - Uniswap V4 Hook
 
 A Uniswap V4 hook that implements a points-based rewards system for ETH=>Token swaps.
 
@@ -13,8 +13,7 @@ A Uniswap V4 hook that implements a points-based rewards system for ETH=>Token s
 
 ```shell
 # Clone the repository
-git clone
-cd MemePoints
+git clone https://github.com/just2102/PointsSwapHook.git
 
 # Install dependencies
 forge install
